@@ -11,18 +11,18 @@ Instructions for installations:
 Step1] Get ready to work with windows 7, one of the hardest decisions. **sighs
 
 
-Step2] clone the Repository using git clone https://github.com/Aeres-u99/LogonUIChangerWin7.git
+Step2] clone the Repository using `git clone https://github.com/Aeres-u99/LogonUIChangerWin7.git`
 
 
 Step3] copy the Images which you like and are below 245kb to the Imgaes folder of the cloned repository.
 
 
 Step4] Double click on Windows_Enable_LogonUI_change.reg to enable the bit.
-[[**warning: messing with registry can be riskier, for your own safety purposes kindly check the reg file that it doesnot contains anything unnecessary!]]
+``[[**warning: messing with registry can be riskier, for your own safety purposes kindly check the reg file that it doesnot contains anything unnecessary!]]``
 
 
 Step5] Run the Program.py file by typing 
-%> python3 Program.py 
+`%> python3 Program.py `
 
 
 Select 1 to randomly set any of the image as background UI
