@@ -19,6 +19,7 @@ Step3] copy the Images which you like and are below 245kb to the Imgaes folder o
 
 Step4] Double click on Windows_Enable_LogonUI_change.reg to enable the bit.
 ``[[**warning: messing with registry can be riskier, for your own safety purposes kindly check the reg file that it doesnot contains anything unnecessary!]]``
+Step4.1] Well this is necessary, goto `C:\Windows\System32\oobe\` and there make a folder named `info` and into the folder named `info` make a folder named `Background`.This is the folder where we will be keeping Backgrounddefault.jpg
 
 
 Step5] Run the Program.py file by typing 
@@ -36,5 +37,9 @@ Select 3 to display help!
 
 
 Slect 4 to exit the program.
+
+
+
+
 
 Feel free to share the code and modify it as per your will, give me some credit for it tho ;)
